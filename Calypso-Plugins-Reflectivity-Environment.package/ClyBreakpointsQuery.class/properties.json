@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "ClyBreakMethodsQuery",
+	"name" : "ClyBreakpointsQuery",
 	"type" : "normal"
 }
